@@ -26,3 +26,8 @@
 
   ・Link the object file to make executable file.<br/>
   e.g. link /subsystem:windows ./(target).obj kernel32.lib user32.lib<br/>
+
+# Memo
+  Windows3.1(MS-DOS) → Windows 95<br/>
+     i8086 16bit → i80386 32bit<br/>
+  (Pay attention to assembler function is changed by cpu when you refer to some documents)
